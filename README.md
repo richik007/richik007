@@ -54,4 +54,4 @@ My goal is to not just learn but to leverage my technical skills to solve real-w
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=richik007&icon=0&color=0)](https://github.com/richik007)
+
